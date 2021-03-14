@@ -1,6 +1,6 @@
 # cannibals_and_missionaries
 
-Implemented with the Blind Search Algorithm.
+Implemented in prolog with the Blind Search Algorithm.
 
 #### How to run
 ```html
