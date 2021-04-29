@@ -29,3 +29,6 @@ state(1,0,right,2,3) -> state(1,1,left,2,2)
 state(1,1,left,2,2) -> state(0,0,right,3,3)
 true .
 ```
+
+
+If you are not familiar with the Missionaries and Cannibals Prolem you can check this -> https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem
